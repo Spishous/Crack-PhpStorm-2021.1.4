@@ -14,7 +14,7 @@ lien: [https://www.jetbrains.com/fr-fr/phpstorm/download/other.html](https://www
 ```
 -javaagent:c:/Program Files/Jetbrains/BetterIntelliJ-1.20.jar
 ```
->(même chemin que le fichier déposé à l'etape 2)
+`(même chemin que le fichier déposé à l'etape 2)`
 
 ## Etape 4:
 - Aller dans le fichier C:\windows\system32\drivers\etc\hosts
