@@ -1,11 +1,13 @@
 # Crack-PhpStorm-2021.1.4
 ## Etape 1:
-- Installer Phpstorm 2021.1.3
-- Activer la version d'essai (ne pas remplir les informations et valider)<br/>
+- Installer Phpstorm 2021.1.4<br/>
 lien: [https://www.jetbrains.com/fr-fr/phpstorm/download/other.html](https://www.jetbrains.com/fr-fr/phpstorm/download/other.html)
+- Activer la version d'essai (ne pas remplir les informations et valider)
+
 
 ## Etape 2:
-- Copier Coller le fichier "BetterIntelliJ-1.20.jar" and le repertoire parent "Jetbrain" de Phpstorm ( Glisser deposer dans "C:/Program Files/Jetbrain/" )
+- Copier Coller le fichier "BetterIntelliJ-1.20.jar" and le repertoire parent "Jetbrain" de Phpstorm<br/>
+( Glisser deposer dans "C:/Program Files/Jetbrain/" )
 
 ## Etape 3:
 - Ouvrir phpstorm
