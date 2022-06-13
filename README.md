@@ -20,6 +20,7 @@ lien: [https://www.jetbrains.com/fr-fr/phpstorm/download/other.html](https://www
 
 ## Etape 4:
 - Aller dans le fichier C:\windows\system32\drivers\etc\hosts
+(Dans linux /etc/hosts)
 - Ajouter ces 3 lignes :
 ```
 127.0.0.1 account.jetbrains.com
