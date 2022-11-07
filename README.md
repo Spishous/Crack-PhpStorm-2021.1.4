@@ -16,11 +16,11 @@ lien: [https://www.jetbrains.com/fr-fr/phpstorm/download/other.html](https://www
 ```
 -javaagent:c:/Program Files/Jetbrains/BetterIntelliJ-1.20.jar
 ```
-`(même chemin que le fichier déposé à l'etape 2)`
+`Attention: vérifier que c'est le même chemin que le fichier mis à l'etape 2`
 
 ## Etape 4:
 - Aller dans le fichier C:\windows\system32\drivers\etc\hosts
-(Dans linux /etc/hosts)
+ (Pour Linux c'est le repertoire "/etc/hosts")
 - Ajouter ces 3 lignes :
 ```
 127.0.0.1 account.jetbrains.com
